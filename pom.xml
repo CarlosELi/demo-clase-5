@@ -75,7 +75,7 @@
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.15.1</version>
+			<version>2.20.0</version>
 		</dependency>
 		
 		<!-- Fixed: JJWT - upgrade to 0.12.5 -->
